@@ -18,6 +18,7 @@ namespace HelloApp
                 Console.WriteLine(item);
             }
             ie.Reset(); // сбрасываем указатель в начало массива
+            Console.WriteLine("test chenge gethab");
             Console.Read();
         }
     }
